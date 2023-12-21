@@ -24,3 +24,66 @@ body{
 .carousel-inner {
 max-height: 39rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=================================MEDIA QUIERES PANTALLA 
+SM===============================*/
+
+@media(max-widith:768) {
+    #intro {
+        width: 90% !important;
+    }
+}
+
+.servicio-fila {
+    width: 100% !important;
+    text-align:center;
+}
+
+/*=================================MEDIA QUIERES PANTALLA 
+EXTRA-SM===============================*/
+
+@media(max-width: 576px) {
+    .icon-wrap{
+        flex-wrap: wrap;
+        justify-content: center !important;
+}
+}
